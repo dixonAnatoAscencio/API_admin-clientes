@@ -1,0 +1,68 @@
+{
+  "clientes": [
+    {
+      "nombre": "Dixon actualizado",
+      "empresa": "nfts",
+      "email": "dixonjesusanato@hotmail.com",
+      "telefono": "3134186652",
+      "notas": "nft's",
+      "id": 1
+    },
+    {
+      "nombre": "lola",
+      "empresa": "lola diseño",
+      "email": "lola@gmail.com",
+      "telefono": "6432132154",
+      "notas": "cotizando",
+      "id": 3
+    },
+    {
+      "nombre": "leti",
+      "empresa": "leti modelaje",
+      "email": "correo@correo.com",
+      "telefono": "6842015",
+      "notas": "modelo",
+      "id": 4
+    },
+    {
+      "nombre": "jesus",
+      "empresa": "jesus informatica",
+      "email": "correo@correo.com",
+      "telefono": "46513861",
+      "notas": "",
+      "id": 5
+    },
+    {
+      "nombre": "juan",
+      "empresa": "formik",
+      "email": "correo@correo.com",
+      "telefono": "5324324",
+      "notas": "editando",
+      "id": 6
+    },
+    {
+      "nombre": "juan",
+      "empresa": "nfts",
+      "email": "dixonjesusanato@hotmail.com",
+      "telefono": "3134186652",
+      "notas": "nft's",
+      "id": 7
+    },
+    {
+      "nombre": "dado",
+      "empresa": "fff",
+      "email": "correo@corre.com",
+      "telefono": "54245464",
+      "notas": "nuevo client",
+      "id": 8
+    },
+    {
+      "nombre": "Dixon",
+      "empresa": "nfts",
+      "email": "dixonjesusanato@hotmail.com",
+      "telefono": "3134186652",
+      "notas": "nft's",
+      "id": 9
+    }
+  ]
+}
